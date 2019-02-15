@@ -14,6 +14,8 @@
   - https://infoarena.ro/problema/custi
   - https://infoarena.ro/problema/gradina3
   - https://infoarena.ro/problema/divk
+* [ ] Ridicare la putere in timp logaritmic
+  - https://infoarena.ro/problema/lgput
 
 # Altele
 * [ ] Calculare memorie ocupata
