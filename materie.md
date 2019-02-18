@@ -16,6 +16,13 @@
   - [ ] https://infoarena.ro/problema/divk
 * [x] Ridicare la putere in timp logaritmic
   - [x] https://infoarena.ro/problema/lgput
+* [ ] Fibonacci (https://math.stackexchange.com/questions/41667/fibonacci-tribonacci-and-other-similar-sequences)
+* [ ] Cautare binara (infoarena)
+* [ ] Probleme de dinamica clasica
+  - [ ] https://www.infoarena.ro/problema/cmlsc
+  - [ ] https://www.infoarena.ro/problema/scmax
+  - [ ] https://www.infoarena.ro/problema/ssm
+  - [ ] https://www.infoarena.ro/problema/rucsac
 
 # Altele
 * [ ] Calculare memorie ocupata
