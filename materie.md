@@ -23,3 +23,14 @@
   - [ ] https://www.infoarena.ro/problema/scmax
   - [ ] https://www.infoarena.ro/problema/ssm
   - [ ] https://www.infoarena.ro/problema/rucsac
+  
+* [ ] Din arhiva educationala:
+  - [ ] https://www.infoarena.ro/problema/combinari
+  - [ ] https://www.infoarena.ro/problema/permutari (backtracking de 2 lei)
+  - [ ] https://www.infoarena.ro/problema/inversmodular (se foloseste la calculat numarul de combinari modulo N)
+  - [ ] https://www.infoarena.ro/problema/deque (coada dubla, o gasiti si in STL)
+  - [ ] https://www.infoarena.ro/problema/ssnd (posibil sa fie interesanta)
+  - [ ] https://www.infoarena.ro/problema/elmaj - e jeg, dar merita facuta
+* [ ] https://codeforces.com/problemset/problem/1117/A - o chestie simpla de idee
+* [ ] https://codeforces.com/contest/1113/problem/C - dinamica asemanatoare cu divk
+* [ ] https://codeforces.com/problemset/problem/1104/B - problema la care se aplica chestia cu paranteze
