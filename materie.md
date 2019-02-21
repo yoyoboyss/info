@@ -34,3 +34,7 @@
 * [ ] https://codeforces.com/problemset/problem/1117/A - o chestie simpla de idee
 * [ ] https://codeforces.com/contest/1113/problem/C - dinamica asemanatoare cu divk
 * [ ] https://codeforces.com/problemset/problem/1104/B - problema la care se aplica chestia cu paranteze
+
+* Probleme dinamica:
+  - [ ] https://www.infoarena.ro/problema/nrcuv
+  - [ ] https://www.infoarena.ro/problema/homm
